@@ -1,0 +1,12 @@
+{
+    "name": "pedro/fotos",
+    "authors": [
+        {
+            "name": "Pedro Augusto",
+            "email": "pams.pedro@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}
